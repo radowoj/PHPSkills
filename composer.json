@@ -1,6 +1,6 @@
 {
-  "name": "phpskills/phpskills",
-  "description": "Implementation of Microsoft's TrueSkill matchmaking system for PHP",
+  "name": "radowoj/phpskills",
+  "description": "phpskills/phpskills by Moserware updated to PHP 8.1",
   "keywords": ["trueskill", "matchmaking", "ranking", "skill", "elo"],
   "homepage": "https://github.com/moserware/PHPSkills",
   "version": "1.0.0",
@@ -13,6 +13,11 @@
     {
       "name": "Alexander Liljengård",
       "email": "alexander@paxxmedia.se",
+      "role": "Contributor"
+    },
+    {
+      "name": "Radosław Wojtyczka",
+      "email": "radoslaw@wojtyczka.me",
       "role": "Contributor"
     }
   ],
